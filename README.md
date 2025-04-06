@@ -118,8 +118,6 @@ Zeigt alle Studenten an, die derzeit in der Hash-Liste gespeichert sind.
 
 Fühlen Sie sich frei, dieses Repository zu forken und Pull-Requests einzureichen. Verbesserungen oder Vorschläge sind jederzeit willkommen!
 
-## Lizenz
-
 Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE)-Datei für Details.
 
 ---
