@@ -114,8 +114,6 @@ Entfernt einen Studenten aus der Liste anhand des Nachnamens.
 #### `show()`
 Zeigt alle Studenten an, die derzeit in der Hash-Liste gespeichert sind.
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE)-Datei für Details.
-
 ---
 
 Viel Spaß beim Arbeiten mit dieser Hash-basierten Listen-Implementierung in Python!
