@@ -90,33 +90,29 @@ TAIL
 
 ## Funktionsweise
 
-### `readFile()`
+#### `readFile()`
 Liest die Datei `Data.txt` ein und befüllt die Hash-Liste mit Studenten-Objekten. Es misst auch die Zeit, die benötigt wird, um die Datei zu lesen und den zuletzt hinzugefügten Studenten zu löschen.
 
-### `printMenu()`
+#### `printMenu()`
 Zeigt das Hauptmenü mit den verfügbaren Optionen an.
 
-### `userInput()`
+#### `userInput()`
 Verarbeitet die Benutzereingabe und ordnet sie der entsprechenden Funktion zu.
 
-### `options(i)`
+#### `options(i)`
 Ordnet die Benutzereingabe einer bestimmten Option (Hinzufügen, Löschen, Modifizieren, Anzeigen oder Beenden) zu.
 
-### `add()`
+#### `add()`
 Fügt einen neuen Studenten zur Hash-Liste hinzu, indem der Benutzer nach dem Vornamen, Nachnamen und der ID des Studenten gefragt wird.
 
-### `delete()`
+#### `delete()`
 Entfernt einen Studenten aus der Liste anhand des Nachnamens.
 
-### `modify()`
+#### `modify()`
 Ändert den Nachnamen eines bestehenden Studenten.
 
-### `show()`
+#### `show()`
 Zeigt alle Studenten an, die derzeit in der Hash-Liste gespeichert sind.
-
-## Beitrag leisten
-
-Fühlen Sie sich frei, dieses Repository zu forken und Pull-Requests einzureichen. Verbesserungen oder Vorschläge sind jederzeit willkommen!
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE)-Datei für Details.
 
